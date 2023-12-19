@@ -1,0 +1,6 @@
+2023-12-19 23:12:65 INFO  HomePage :48 - Mouse hover on “Desktops” and click [[ChromeDriver: chrome on windows (cf3a35329b73fab83e42d9352217990b)] -> xpath: //ul[@class='nav navbar-nav']/li[1]/a]
+2023-12-19 23:12:477 INFO  HomePage :63 - Click on Show All Desktops [[ChromeDriver: chrome on windows (cf3a35329b73fab83e42d9352217990b)] -> link text: Show AllDesktops]
+2023-12-19 23:12:516 INFO  HomePage :53 - Mouse hover on “Laptops & Notebooks” and click [[ChromeDriver: chrome on windows (b336d510d5d4ac0cc0f9a943b85e662d)] -> xpath: //ul[@class='nav navbar-nav']/li[2]/a]
+2023-12-19 23:12:609 INFO  HomePage :68 - Click on Show All LaptopAndNotebooks [[ChromeDriver: chrome on windows (b336d510d5d4ac0cc0f9a943b85e662d)] -> link text: Show AllLaptops & Notebooks]
+2023-12-19 23:12:860 INFO  HomePage :58 -  Mouse hover on “Components” and click [[ChromeDriver: chrome on windows (796565b8e9405f8da454b81b0017db35)] -> xpath: //ul[@class='nav navbar-nav']/li[3]/a]
+2023-12-19 23:12:509 INFO  HomePage :73 - Click on Show All ShowAllComponents [[ChromeDriver: chrome on windows (796565b8e9405f8da454b81b0017db35)] -> link text: Show AllComponents]
