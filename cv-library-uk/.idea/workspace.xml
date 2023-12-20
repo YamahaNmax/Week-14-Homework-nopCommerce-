@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5f5d0a8-262a-46e5-8c99-fc48aa3df730" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/logs/log.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220063319.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220064009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220064415.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220064821.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220065030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220065230.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220065428.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220065806.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220065941.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220070057.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220070523.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220071259.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220071739.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220071936.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220122450.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220122526.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220123033.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/featuresfile/jobsearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/steps/JobSearchStep.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ZmcMYMFlqNGJ84dSqgpok2ktpI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Cucumber Java.Scenario: Verify Job search result using different data set.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Homework/Week-15-Homework-Ninja-Tutorial/cv-library-uk/src/test/java/uk/co/library/steps",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Homework\Week-15-Homework-Ninja-Tutorial\cv-library-uk\src\test\java\resources" />
+      <recent name="C:\Homework\Week-15-Homework-Ninja-Tutorial\cv-library-uk\src\test\java\uk\co\library" />
+      <recent name="C:\Homework\Week-15-Homework-Ninja-Tutorial\cv-library-uk\src\main\java\uk\co\library" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uk.co.library.pages" />
+      <recent name="uk.co.library" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Scenario: Verify Job search result using different data set" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featuresfile/jobsearch.feature" />
+      <option name="GLUE" value="uk.co.library" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="cv-library-uk" />
+      <option name="NAME_FILTER" value="^Verify Job search result using different data set$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify Job search result using different data set$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify Job search result using different data set" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cv-library-uk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.library.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.library.runner" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.library.runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Verify Job search result using different data set" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5f5d0a8-262a-46e5-8c99-fc48aa3df730" name="Changes" comment="" />
+      <created>1697363301124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697363301124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
