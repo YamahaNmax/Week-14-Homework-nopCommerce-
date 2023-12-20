@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f5d0a8-262a-46e5-8c99-fc48aa3df730" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/driverfactory/ManageDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/logs/log.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/pages/ResultPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/propertyreader/PropertyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220063319.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220064009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220064415.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220064821.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220065030.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220065230.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220065428.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220065806.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220065941.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220070057.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220070523.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220071259.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220071739.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220071936.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220122450.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220122526.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/screenshots/Verify_Job_search_result_using_different_data_set20231220123033.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/utility/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/cucumber.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/featuresfile/jobsearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/runner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/steps/JobSearchStep.java" afterDir="false" />
-    </list>
+    <list default="true" id="c5f5d0a8-262a-46e5-8c99-fc48aa3df730" name="Changes" comment="Done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,9 +110,20 @@
       <option name="presentableId" value="Default" />
       <updated>1697363301124</updated>
     </task>
+    <task id="LOCAL-00001" summary="Done">
+      <option name="closed" value="true" />
+      <created>1703058133349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703058133349</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
 </project>
