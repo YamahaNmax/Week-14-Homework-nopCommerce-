@@ -30,6 +30,15 @@ public class ProductPage extends Utility {
     @FindBy(linkText = "shopping cart")
     WebElement clickOnShoppingCart;
 
+    @CacheLookup
+    @FindBy(xpath = "//div[@id='content']/div/div[2]/h1")
+    WebElement verifyTextMacbook;
+
+    @CacheLookup
+    @FindBy(xpath = "//div[@class=\"alert alert-success alert-dismissible\"]")
+    WebElement verifySuccess;
+
+
     public String setVerifyTextHPLP3065() {
         return getTextFromElement(verifyTextHPLP3065);
     }
@@ -55,4 +64,17 @@ public class ProductPage extends Utility {
     public void setClickOnShoppingCart(){
         clickOnElement(clickOnShoppingCart);
     }
+
+    public String setVerifyTextMacbook() {
+        return getTextFromElement(verifyTextMacbook);
+    }
+
+    public String setVerifySuccess() {
+        return getTextFromElement(verifySuccess);
+    }
+
+
 }
+
+
+

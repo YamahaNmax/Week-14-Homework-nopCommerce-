@@ -27,6 +27,29 @@ public class ShoppingCartPage extends Utility {
     @FindBy(xpath = "//div[@id='content']/div[2]/div/table/tbody/tr[4]/td[2]")
     WebElement verifyTotal;
 
+    @CacheLookup
+    @FindBy(xpath = "//div[@class='table-responsive']/table[1]/tbody[1]/tr[1]/td[2]/A")
+    WebElement verifyTextMacbook;
+
+    @CacheLookup
+    @FindBy(xpath = "//div[@class='input-group btn-block']/input[1]")
+    WebElement updateQty;
+
+    @CacheLookup
+    @FindBy(xpath = "//div[@class='input-group btn-block']/span[1]/button[1]")
+    WebElement updateButton;
+
+    @CacheLookup
+    @FindBy(xpath = "//div[@class='alert alert-success alert-dismissible']")
+    WebElement verifyUpdateMessage;
+
+    @CacheLookup
+    @FindBy(xpath = "//div[@id='content']/div[2]/div/table/tbody/tr[4]/td[2]")
+    WebElement verifyUpdateTotal;
+
+    @CacheLookup
+    @FindBy(xpath = "//div[@id='content']/div[3]/div[2]/a[1]")
+    WebElement checkoutButton;
 
     public String setVerifyTextShoppingCart() {
         return getTextFromElement(verifyTextShoppingCart);
@@ -46,6 +69,31 @@ public class ShoppingCartPage extends Utility {
 
     public String setVerifyTotal() {
         return getTextFromElement(verifyTotal);
+    }
+
+    public String setVerifyTextMacbook() {
+        return getTextFromElement(verifyTextMacbook);
+    }
+
+    public void setUpdateQty(String qty) {
+        updateQty.clear();
+        sendTextToElement(updateQty, "2");
+    }
+
+    public void setUpdateButton(){
+        clickOnElement(updateButton);
+    }
+
+    public String setVerifyUpdateMessage() {
+        return getTextFromElement(verifyUpdateMessage);
+    }
+
+    public String setVerifyUpdateTotal() {
+        return getTextFromElement(verifyUpdateTotal);
+    }
+
+    public void setCheckoutButton(){
+        clickOnElement(checkoutButton);
     }
 
 }
