@@ -12,7 +12,7 @@ Feature: LaptopAndNotebook product Test
     And I select product sort by Price (High > Low)
 
 
-  @smoke @regression @try
+  @smoke @regression
   Scenario: User should place order successfully
     When I mouse hover and click on laptop and notebook tab
     And I click on show all laptop and notebook
